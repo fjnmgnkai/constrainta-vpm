@@ -7,7 +7,14 @@
       "versions": {
         "1.0.0": {
           "name": "ConstrainTA",
+          "displayName": "ConstrainTA",
           "version": "1.0.0",
+          "unity": "2022.3",
+          "description": "Unity Editor tool to import and rebuild VRChat constraint setups.",
+          "author": {
+            "name": "fjnmgnkai",
+            "url": "https://github.com/fjnmgnkai"
+          },
           "url": "https://github.com/fjnmgnkai/constrainta/archive/refs/tags/v1.0.0.zip",
           "zipSHA256": "c851ee06bd2cd8bac1c64e55c829e91f6054b040ea5838d3685da57ec4d1be4c",
           "vpmDependencies": {
