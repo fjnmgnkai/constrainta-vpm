@@ -1,14 +1,14 @@
 {
   "name": "fjnmgnkai VPM Repository",
   "id": "com.fjnmgnkai.vpm",
-  "url": "https://github.com/fjnmgnkai/constrainta-vpm",
+  "url": "https://raw.githubusercontent.com/fjnmgnkai/constrainta-vpm/main/vpm.json",
   "packages": {
     "com.github.fjnmgnkai.constrainta": {
       "versions": {
         "1.0.0": {
           "name": "ConstrainTA",
           "version": "1.0.0",
-          "url": "https://github.com/fjnmgnkai/constrainta.git",
+          "url": "https://github.com/fjnmgnkai/constrainta/archive/refs/tags/v1.0.0.zip",
           "zipSHA256": "c851ee06bd2cd8bac1c64e55c829e91f6054b040ea5838d3685da57ec4d1be4c",
           "vpmDependencies": {
             "com.vrchat.base": "^3.6.0"
