@@ -15,7 +15,7 @@
             "name": "fjnmgnkai",
             "url": "https://github.com/fjnmgnkai"
           },
-          "url": "https://github.com/fjnmgnkai/constrainta/archive/refs/tags/v1.0.0.zip",
+          "url": "https://codeload.github.com/fjnmgnkai/constrainta/zip/refs/tags/v1.0.0",
           "zipSHA256": "c851ee06bd2cd8bac1c64e55c829e91f6054b040ea5838d3685da57ec4d1be4c",
           "vpmDependencies": {
             "com.vrchat.base": "^3.6.0"
