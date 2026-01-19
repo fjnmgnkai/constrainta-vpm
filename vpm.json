@@ -1,6 +1,5 @@
 {
   "repoVersion": 1,
-
   "name": "fjnmgnkai VPM Repository",
   "id": "com.fjnmgnkai.vpm",
   "url": "https://raw.githubusercontent.com/fjnmgnkai/constrainta-vpm/main/vpm.json",
@@ -9,14 +8,17 @@
     "com.github.fjnmgnkai.constrainta": {
       "versions": {
         "1.0.0": {
-          "name": "ConstrainTA",
+          "name": "com.github.fjnmgnkai.constrainta",
+          "displayName": "ConstrainTA",
           "version": "1.0.0",
           "unity": "2022.3",
+          "description": "Unity Editor tool to import and rebuild VRChat constraints.",
 
           "url": "https://github.com/fjnmgnkai/constrainta/releases/download/v1.0.0/ConstrainTA-1.0.0.zip",
+          "repo": "https://raw.githubusercontent.com/fjnmgnkai/constrainta-vpm/main/vpm.json",
           "zipSHA256": "94209030a97d337020ad5f85bade41e371f1b7aa9fae174ede90a1b2c92685d7",
 
-          "dependencies": {
+          "vpmDependencies": {
             "com.vrchat.base": ">=3.10.0"
           }
         }
