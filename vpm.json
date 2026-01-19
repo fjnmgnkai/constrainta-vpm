@@ -1,7 +1,10 @@
 {
+  "repoVersion": 1,
+
   "name": "fjnmgnkai VPM Repository",
   "id": "com.fjnmgnkai.vpm",
   "url": "https://raw.githubusercontent.com/fjnmgnkai/constrainta-vpm/main/vpm.json",
+
   "packages": {
     "com.github.fjnmgnkai.constrainta": {
       "versions": {
