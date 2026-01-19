@@ -17,7 +17,7 @@
           "zipSHA256": "e7c461d385f3822bff2576410deb0d0d224b64beefd9f4d04069f26c91c07116",
 
           "dependencies": {
-            "com.vrchat.base": "^3.10.0"
+            "com.vrchat.base": ">=3.10.0"
           }
         }
       }
