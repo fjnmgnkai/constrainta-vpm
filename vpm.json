@@ -8,6 +8,7 @@
       "versions": {
         "1.0.0": {
           "name": "com.github.fjnmgnkai.constrainta",
+          "displayName": "ConstrainTA",
           "version": "1.0.0",
           "unity": "2022.3",
           "url": "https://github.com/fjnmgnkai/constrainta/releases/download/v1.0.0/ConstrainTA-1.0.0.zip",
