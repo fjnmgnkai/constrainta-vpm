@@ -9,12 +9,12 @@
         "1.0.0": {
           "name": "com.github.fjnmgnkai.constrainta",
           "displayName": "ConstrainTA",
-          "version": "1.0.0",
+          "version": "0.9.0",
           "unity": "2022.3",
           "url": "https://github.com/fjnmgnkai/constrainta/releases/download/v1.0.0/ConstrainTA-1.0.0.zip",
-          "zipSHA256": "94cf2bda07da7204e98ffc43dfbf2d9a2776c8f1686ae818f79119421bcfc466",
+          "zipSHA256": "11fa7a745179062c936e479f415204b4e3e876cf02e8e12f0ea1ffd533075e42",
           "vpmDependencies": {
-            "com.vrchat.base": ">=3.10.0"
+            "com.vrchat.base": ">=3.9.0"
           }
         }
       }
