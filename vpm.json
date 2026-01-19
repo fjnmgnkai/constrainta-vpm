@@ -12,7 +12,7 @@
           "version": "1.0.0",
           "unity": "2022.3",
           "url": "https://github.com/fjnmgnkai/constrainta/releases/download/v1.0.0/ConstrainTA-1.0.0.zip",
-          "zipSHA256": "5a840917e1a758563c1513ef15fd523463fe63126d98167af96c162f3e3b09ca",
+          "zipSHA256": "94cf2bda07da7204e98ffc43dfbf2d9a2776c8f1686ae818f79119421bcfc466",
           "vpmDependencies": {
             "com.vrchat.base": ">=3.10.0"
           }
