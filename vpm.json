@@ -16,6 +16,17 @@
           "vpmDependencies": {
             "com.vrchat.base": ">=3.9.0"
           }
+        },
+        "0.9.1": {
+          "name": "com.github.fjnmgnkai.constrainta",
+          "displayName": "ConstrainTA",
+          "version": "0.9.1",
+          "unity": "2022.3",
+          "url": "https://github.com/fjnmgnkai/constrainta/releases/download/0.9.1/ConstrainTA-0.9.1.zip",
+          "zipSHA256": "93c2af2267ec4b5258902a3886225ebdfa2be6e7f189798b93ed6dd0d1a1aed2",
+          "vpmDependencies": {
+            "com.vrchat.base": ">=3.9.0"
+          }
         }
       }
     }
